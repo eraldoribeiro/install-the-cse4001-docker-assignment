@@ -16,3 +16,5 @@ Make a small change in the kernel. Re-build and boot the kernel so it shows the 
 
 Add screenshots here: ... 
 
+![Drag Racing](Dragster.jpg)
+
