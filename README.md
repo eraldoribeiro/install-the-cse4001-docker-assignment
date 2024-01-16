@@ -1,5 +1,6 @@
 # install-the-cse4001-docker-assignment
-Assignment (CSE4001): Install the CSE4001 docker container
+
+## Assignment (CSE4001): Install the CSE4001 docker container
 
 In this assignment, you will install OS/161 on your personal computer so you can have it ready for the following OS/161 assignments. 
 
