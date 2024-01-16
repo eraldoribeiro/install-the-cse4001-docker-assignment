@@ -10,8 +10,9 @@ Make a small change in the kernel. Re-build and boot the kernel so it shows the 
 
 ### Deliverables: 
 
-- Edit the README.md (markdown file) so it shows a screenshot of your OS/161 running showing the new booting sequence with your name on it. The screenshot file is an image, e.g., png, jpg, gif. The image file must also be uploaded in the without repository.
+- Edit this README.md (markdown file) so it shows a screenshot of your OS/161 running showing the new booting sequence with your name on it. The screenshot file is an image, e.g., png, jpg, gif. The image file must also be uploaded in the without repository.
   
 **Note**: I just want to quickly see that you completed the tasks asked by the assignment. For example, if everything fits in your screen, you can take a screenshot of the result of all terminals and debugging script side by side as they appear on your computer. 
 
+Add screenshots here: ... 
 
