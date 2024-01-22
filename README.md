@@ -15,6 +15,8 @@ Make a small change in the kernel. Re-build and boot the kernel so it shows the 
 **Note**: I just want to quickly see that you completed the tasks asked by the assignment. For example, if everything fits in your screen, you can take a screenshot of the result of all terminals and debugging script side by side as they appear on your computer. 
 
 $${\color{red}Add screenshots here!!}$$
+<code style="color : greenyellow">Add screenshot(s) here.</code>
+
 
 The following image is just an example of how to add an image in markdown. 
 To add your actual screenshot, edit this README.md file, and replace the name of the example image file with the name of your screenshot image.
