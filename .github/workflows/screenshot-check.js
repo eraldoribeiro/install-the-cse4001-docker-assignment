@@ -33,7 +33,15 @@ function checkReadmeForScreenshot() {
   if (screenshotPath) {
     const ocrText = await performOCR(screenshotPath);
     console.log('OCR Text:', ocrText);
-    // Here, you can add more checks on ocrText if needed
+
+    // Added checks on ocrText
+    if (ocrText.includes("Device probe")) {
+      console.log("Screenshot contains 'Device probe'");
+      process.exit(0);
+    } else {
+      console.error("Screenshot does not contain 'Device probe'");
+      process.exit(1);
+    }
     process.exit(0);
   }
 })();
