@@ -17,7 +17,7 @@ Make a small change in the kernel. Re-build and boot the kernel so it shows the 
 $${\color{lightgreen}{\text{Add screenshots here!!}}}$$
 
 The following image is just an example of how to add an image in markdown. 
-To add your actual screenshot, edit this README.md file, and replace the name of the example image file with the name of your screenshot image.
+To add your actual screenshot, edit this README.md file, and replace the name of the example image file with the name of your screenshot image. Of course, you also need to add the image file to the repository so it is rendered properly by GitHub. 
 
 ![Example image](os.jpg)
 
