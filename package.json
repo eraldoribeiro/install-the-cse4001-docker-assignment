@@ -4,8 +4,11 @@
   "description": "In this assignment, you will install OS/161 on your personal computer so you can have it ready for the following OS/161 assignments.",
   "main": "screenshot-check.js",
   "scripts": {
-    "test": "npm install tesseract.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "tesseract.js": "^2.1.5"
+  }
 }
