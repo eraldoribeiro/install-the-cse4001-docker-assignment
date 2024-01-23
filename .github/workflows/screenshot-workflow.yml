@@ -1,10 +1,9 @@
 name: Screenshot Check
 
 on:
-  pull_request:
-    types:
-      - opened
-      - synchronize
+  push:
+    paths:
+      - 'README.md'
 
 jobs:
   check-screenshot:
