@@ -1,0 +1,11 @@
+{
+  "name": "tesseract.js",
+  "version": "1.0.0",
+  "description": "In this assignment, you will install OS/161 on your personal computer so you can have it ready for the following OS/161 assignments.",
+  "main": "screenshot-check.js",
+  "scripts": {
+    "test": "npm install tesseract.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
